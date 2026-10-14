@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="NZWalks.API/NZWalks.API.csproj" />
+  <Project Path="NZWalks.UI/NZWalks.UI.csproj" Id="5e440ab1-3d88-470e-bf58-4260c3d591d4" />
+</Solution>
